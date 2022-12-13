@@ -1,7 +1,6 @@
 android does not meet AA contrast
 book does not meet AA contrast
 codeforces does not meet AA contrast
-discord does not meet AA contrast
 dollar does not meet AA contrast
 facebook does not meet AA contrast
 globe does not meet AA contrast
@@ -13,7 +12,6 @@ send does not meet AA contrast
 snapchat does not meet AA contrast
 spotify does not meet AA contrast
 telegram does not meet AA contrast
-twitch does not meet AA contrast
 twitter does not meet AA contrast
 vimeo does not meet AA contrast
 youtube does not meet AA contrast

@@ -1,0 +1,27 @@
+{
+  "name": "color-check-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js > results.txt"
+  },
+  "engines": {
+    "node": ">18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan-mba/color-check-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan-mba/color-check-file/issues"
+  },
+  "homepage": "https://github.com/dan-mba/color-check-file#readme",
+  "dependencies": {
+    "color-contrast-checker": "^2.1.0"
+  }
+}
